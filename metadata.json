@@ -1,0 +1,6 @@
+{
+  "name": "Inventario Escolar Pro - Gestión de Activos y Préstamos",
+  "description": "Sistema de gestión de inventario escolar y control de préstamos de bienes, prendas y materiales escolares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
